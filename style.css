@@ -1,0 +1,47 @@
+table {
+  border: solid 1px black;
+  border-collapse: collapse;
+  padding: 10px;
+  margin: 0px;
+  width: 850px;
+}
+
+td {
+  padding: 10px;
+  border: solid 1px black;
+
+}
+
+.flex-container {
+  margin: auto 0;
+  display: flex;
+  width: 830px;
+  justify-content: space-between;
+  margin-top: 90px;
+}
+
+.photo img{
+;
+width: 144px; 
+height: 216px;
+}
+
+
+
+.a {
+  margin: auto 0;
+  display: flex;
+  width: 450px;
+  justify-content: space-between;
+}
+
+th {
+
+  border: solid 1px black;
+}
+
+b {
+  margin-top: 900px;
+
+  
+}
